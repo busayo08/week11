@@ -1,0 +1,33 @@
+#bg{
+    background-image: url(application.jpg);
+    color:white;
+}
+.form-bg{
+    width:480px;
+    background-color:#096abc;
+    color: #fff;
+    height: 650px;
+    margin-left: 850px;
+}
+.form{
+    margin-top:0px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 20px;
+    font: courier;
+}
+.form input {
+    margin-bottom: 7px;
+    width:300px;
+    height:30px;
+    text-decoration: none;
+    color:#06345a;
+}
+.form select {
+    margin-bottom: 7px;
+    width:300px;
+    height:40px;
+}
+.table{
+    display: none;
+}
